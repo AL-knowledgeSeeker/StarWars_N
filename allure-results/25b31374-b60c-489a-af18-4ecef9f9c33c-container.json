@@ -1,0 +1,1 @@
+{"uuid":"25b31374-b60c-489a-af18-4ecef9f9c33c","name":"IKApi.StarWars.test.TC001_GetPeople","children":["a6aca3d9-36b1-4b2d-9ba8-c798d0ad277f"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1634167315136,"stop":1634167316305}],"afters":[],"links":[],"start":1634167315095,"stop":1634167321329}

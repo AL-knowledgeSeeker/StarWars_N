@@ -1,0 +1,8 @@
+IKApi\StarWars\constant\Endpoints.class
+IKApi\StarWars\utils\ConfigManager.class
+IKApi\StarWars\utils\ExtentReportListener.class
+IKApi\StarWars\utils\testData.class
+IKApi\StarWars\validations\validations.class
+IKApi\StarWars\apiValidations\ResponseValidation.class
+IKApi\StarWars\model\People.class
+IKApi\StarWars\helper\PeopleService.class
