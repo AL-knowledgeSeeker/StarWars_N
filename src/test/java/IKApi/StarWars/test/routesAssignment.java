@@ -22,6 +22,7 @@ public class routesAssignment {
 	@Test
 	public void getPost() {
 		response = restAssured.get("/posts");
+		//assertEquals(response.getStatusCode(), 200);
 		assertEquals(response.getStatusCode(), 200);
 	}
 
